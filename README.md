@@ -31,7 +31,7 @@ Come up with your own fun weapons and word kills.
 
 Clone or otherwise download all the files in this repo onto your cse account under the folder 'public_html' and also copy accross the csv file you made (call the csv file 'copyAssassins.csv')
 
-Chmod the files you have copied to remove almost all permissions by typing `chmod 700 *` into your terminal (make sure only the files you downloaded and the csv file are in your cwd when you do this).
+Chmod the files you have copied to remove permissions by typing `chmod 700 #`, where # is the name of the file you're changing the permissions of, into your terminal.
 
 Chmod assassins.cgi so it can be read by the public by typing `chmod 755 assassins.cgi` into your terminal.
 
